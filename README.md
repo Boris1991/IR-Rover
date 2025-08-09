@@ -23,7 +23,7 @@ Hardware
 
     Motor driver: Iskra Motor Shield
 
-    IR receiver: TROYKA or equivalent
+    IR receiver: based on ADXL335
 
     Remote control: NEC protocol
 
