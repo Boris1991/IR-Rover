@@ -1,0 +1,16 @@
+# STM32CubeIDE
+.settings/
+.metadata/
+Debug/
+Release/
+*.launch
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+*.gcno
+*.gcda
+*.swp
