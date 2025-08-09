@@ -40,3 +40,11 @@ Software
     The interrupt handler decodes the NEC signal into commands.
 
     In main(), the commands are interpreted and PWM values are set to control the motors.
+
+Future improvements
+
+    Add encoder support for Rover 5
+
+    Add Mavlink protocol support
+
+    Refactoring throughout Freertos
